@@ -2,7 +2,7 @@
 
 # Gustavo Calonico
 
-**Senior Software Engineer** · 9 years · Porto, Portugal
+**Senior Software Engineer** · dev since 2016
 
 Rust · Java/Spring · React · Python — crypto/DeFi, trading infrastructure & distributed systems
 
@@ -17,13 +17,10 @@ gcannelloni@github:~$ neofetch
 gcannelloni@github
 ------------------
 Name:      Gustavo Calonico
-Role:      Senior Software Engineer · 9 years
+Role:      Senior Software Engineer · dev since 2016
 Stack:     Rust · Java/Spring · React · TypeScript · Python
 Domains:   Crypto/DeFi · trading infrastructure · distributed systems
-Projects:  bundlr-sdk (13k+ crates.io downloads) · Meteora DLMM SDK
 Infra:     AWS · Docker · Kubernetes · PostgreSQL · Terraform
-Location:  Porto, Portugal
-Open to:   Remote · B2B contract
 ```
 
 ---
