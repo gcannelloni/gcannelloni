@@ -1,62 +1,49 @@
 <div align="center">
 
-[![GitLab](https://img.shields.io/badge/-More_active_on_GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/randomcash)
+# Gustavo Calonico
 
-*Microsoft keeps making GitHub shittier with every feature they release, so I moved most of my stuff to GitLab.*
+**Senior Software Engineer** · 9 years · Porto, Portugal
+
+Rust · Java/Spring · React · Python — crypto/DeFi, trading infrastructure & distributed systems
 
 </div>
 
 ---
 
 ```bash
-bigboi@randomcash:~$ neofetch
+gcannelloni@github:~$ neofetch
 ```
-```diff
-                                                       randomcash@github
-                                                       ------------------
-+               ▄▄▄▄▄███████████▄▄▄▄▄                  OS: Linux (ROULETTE EDITION)
--            ▄██ 3 ▀ 26 ▀ 0 ▀ 32 ▀ 15 ██▄              Shell: slot-machine (777)
-+          ▄█ 19▀                   ▀ 4 █▄             IDE: Zed
--         █ 21▀        ▄▄▄▄▄▄▄        ▀ 2 █            Terminal: foot
-+        █ 25▀      ▄███████████▄     ▀ 17 █           Uptime: far too long
--        █ 12     ███           ███     34 █           Coffee: Yes + Zyn
-+        █ 8 ▀    ███     00    ███    ▀ 6 █           Bugs: always
--        █ 29     ███     🎱    ███     13 █           Balance: -$69,420
-+        █ 28▀    ███           ███   ▀ 27 █           ------------------
--        █ 7       ▀█████████████▀      20 █           rust: memory-safe garbage
-+         █ 11▀       ▀▀▀▀▀▀▀▀▀      ▀ 36 █            python: scripting & shitcoding
--          ▀█ 30▄                   ▄ 5 █▀             solidity: losing money faster
-+            ▀██ 14 ▄ 31  ▄ 9  ▄ 22  ██▀               js/ts: callback hell enjoyer
--               ▀▀▀▀▀███████████▀▀▀▀▀                  git: git push --force (on main)
-+                                                      linux: arch on my PC btw
--                                                      macos: functional ARM laptop
-+                                                      docker: it works on my machine™
+```
+gcannelloni@github
+------------------
+Name:      Gustavo Calonico
+Role:      Senior Software Engineer · 9 years
+Stack:     Rust · Java/Spring · React · TypeScript · Python
+Domains:   Crypto/DeFi · trading infrastructure · distributed systems
+Projects:  bundlr-sdk (13k+ crates.io downloads) · Meteora DLMM SDK
+Infra:     AWS · Docker · Kubernetes · PostgreSQL · Terraform
+Location:  Porto, Portugal
+Open to:   Remote · B2B contract
 ```
 
 ---
 
 <div align="center">
-
-### how I keep shooting myself in the foot:
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-</div>
-
----
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/-randomcash-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/randomcash)
-[![Twitter](https://img.shields.io/badge/-@RCash24486-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/RCash24486)
-
-![](https://komarev.com/ghpvc/?username=randomcash&color=00ff00&style=flat-square&label=visitors)
+[![GitHub](https://img.shields.io/badge/GitHub-gcannelloni-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gcannelloni)
+[![GitLab](https://img.shields.io/badge/GitLab-gcannelloni-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/gcannelloni)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gustavocalonico-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavocalonico)
 
 </div>
